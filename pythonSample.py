@@ -1,4 +1,6 @@
 print("----------")
 print("CIAO")
 print("ME NE VADO")
+print("ME NE VADO")
+print("VIA")
 print("----------")
