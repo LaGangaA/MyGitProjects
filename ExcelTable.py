@@ -19,9 +19,9 @@ c=2
 # Create a Pandas dataframe from some data.
 df = pd.DataFrame(
     {
-        "Country": ["China", "India", "United States", "Italia","Spagna"],
-        "Population": [1404338840, 1366938189, 330267887, 269603400,2222],
-        "Rank": [1, 2, 3, 4, 5],
+        "Country": ["China", "India", "United States", "Italia","Spagna","Cile"],
+        "Population": [1404338840, 1366938189, 330267887, 269603400,2222,9996660],
+        "Rank": [1, 2, 3, 4, 5, 6],
     },
 )
 # Order the columns if necessary.
